@@ -4,3 +4,5 @@
 *.cbp
 *.layout
 *.depend
+*.in
+*.out
