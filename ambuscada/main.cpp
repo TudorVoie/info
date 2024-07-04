@@ -20,7 +20,7 @@ int main()
     }
     int cnt = 0;
     for(int i = 1; i <= n; i++){
-        cout << a[i] << " ";
+        //cout << a[i] << " ";
         if(a[i] > 0) cnt++;
     }
     //cout << cnt;
