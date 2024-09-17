@@ -6,3 +6,4 @@
 *.depend
 *.in
 *.out
+/test
